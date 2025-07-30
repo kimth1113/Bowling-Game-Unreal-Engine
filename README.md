@@ -5,7 +5,7 @@
 아직 미숙한 점이 많지만, 기본적인 볼링 메커니즘을 구현하며 많은 것을 배울 수 있었던 소중한 경험이었습니다. 이번 포트폴리오에서는 개발 과정과 구현된 기능들을 이미지와 함께 기록해보려 합니다.
 
 
-![볼링 게임 영상](blob:https://velog.io/a67b337c-b80b-4644-a2ce-ba771e1a1bb3)
+![볼링 게임 영상](https://velog.velcdn.com/images/kimth1113/post/fd985270-a323-4bef-94bd-aa561f23c8c8/image.gif)
 
 
 ![메인 레벨의 블루프린트](https://velog.velcdn.com/images/kimth1113/post/a5fe9e4b-514e-40b4-b207-eb865f14011e/image.PNG)
